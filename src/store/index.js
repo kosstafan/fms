@@ -1,5 +1,4 @@
 import { createStore } from "vuex";
-import { getFmsItems } from "../services/fms";
 
 export default createStore({
     state: {
